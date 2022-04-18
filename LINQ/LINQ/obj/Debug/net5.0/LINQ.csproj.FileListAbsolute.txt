@@ -14,3 +14,6 @@ C:\Users\youse\Desktop\programs\Lab09-LINQ\LINQ\LINQ\obj\Debug\net5.0\LINQ.dll
 C:\Users\youse\Desktop\programs\Lab09-LINQ\LINQ\LINQ\obj\Debug\net5.0\ref\LINQ.dll
 C:\Users\youse\Desktop\programs\Lab09-LINQ\LINQ\LINQ\obj\Debug\net5.0\LINQ.pdb
 C:\Users\youse\Desktop\programs\Lab09-LINQ\LINQ\LINQ\obj\Debug\net5.0\LINQ.genruntimeconfig.cache
+C:\Users\youse\Desktop\programs\Lab09-LINQ\LINQ\LINQ\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\youse\Desktop\programs\Lab09-LINQ\LINQ\LINQ\obj\Debug\net5.0\LINQ.csproj.CopyComplete
+C:\Users\youse\Desktop\programs\Lab09-LINQ\LINQ\LINQ\bin\Debug\net5.0\Newtonsoft.Json.dll
