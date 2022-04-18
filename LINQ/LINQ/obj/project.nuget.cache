@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zheEhkp+IdUbwQWK1mQZfQJcnWhI7JFw+hh33QhZSyMjqtZOEpJtTioLLTD6PIgz6YzWcB3sUeH6qyz25tg+LA==",
+  "dgSpecHash": "UU5liY1BCUSJP16+vRT5Jw1Wf+ZxFY6oD+GU5aUqH+l9Rof+SZwJEmXqSXvpiNKPYUJ+6k/MbdmdGAXjLiJ1bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\youse\\Desktop\\programs\\Lab09-LINQ\\LINQ\\LINQ\\LINQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\youse\\.nuget\\packages\\microsoft.azure.amqp\\2.5.10\\microsoft.azure.amqp.2.5.10.nupkg.sha512",
+    "C:\\Users\\youse\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
